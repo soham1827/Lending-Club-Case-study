@@ -29,6 +29,8 @@
 
 > - Borrowers with high number of public derogatory records and public bankruptcy have high tendency to get Charged Off.
 
+> - Identified Variables that can drive business :  “Term”, “Interest Rate”, “DTI”, ”Purpose”, “Verification Status”, “Grade”, “Public Derogatory records”, “Public bankruptcy records” to “Loan Status”
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
